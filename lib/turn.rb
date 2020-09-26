@@ -8,4 +8,4 @@ end
 end
 
 def input_to_index(user_input)
-  
+  index = 
