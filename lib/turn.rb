@@ -7,4 +7,4 @@ def display_board(board)
 end
 end
 
-def user_input
+def input_to_index
