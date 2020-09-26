@@ -32,3 +32,4 @@ def valid_move?(board, index)
   
   def move(board, index, character = "X")
     
+    
