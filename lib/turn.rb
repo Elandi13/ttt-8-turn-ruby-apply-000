@@ -13,4 +13,5 @@ def input_to_index(user_input)
   return index
 end
 
-def 
+def valid_move?(board, index)
+  
